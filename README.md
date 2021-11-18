@@ -30,8 +30,9 @@ Futter 개발로 앱을 만들었고 Bloc 패턴을 선호합니다.
 
 # 프로젝트
 
-## [KumaApp](https://github.com/AnHeung/kuma_app_with_flutter)
-`개인프로젝트, 2021.03 ~ 2021.07`
+## [KumaApp]
+`개인프로젝트, 2021.03 ~ 2021.07`  
+[GitHub 주소](https://github.com/AnHeung/kuma_app_with_flutter)
 
  ### 개발
 - 애니메이션 뉴스 및 검색과 알림을 위한 API
@@ -44,8 +45,9 @@ Futter 개발로 앱을 만들었고 Bloc 패턴을 선호합니다.
 - Bloc 패턴 적용 
 
 
-## [ToCeleb](https://github.com/AnHeung/ToCeleb)
+## ToCeleb
 `회사프로젝트, 2020.01 ~ 2020.06`
+[GitHub 주소](https://github.com/AnHeung/ToCeleb)
 
 셀럽(유튜버,연예인등)들을 위한 개인 블로깅 및 후원 앱입니다.
 Kotlin 으로 개발했습니다. 
@@ -63,8 +65,9 @@ Kotlin 으로 개발했습니다.
 - MVVM 패턴 적용 및 Databinding 사용
 
 
-## [Sharebox 다운로드, GFile 다운로드](https://play.google.com/store/apps/details?id=com.GiftM.google1.ShareBox)
-`쉐어박스, 2019.01-2019.08`
+## Sharebox 다운로드, GFile 다운로드
+`쉐어박스, 2019.01-2019.08`. 
+[PlayStore](https://play.google.com/store/apps/details?id=com.GiftM.google1.ShareBox)
   
  ### 개발
 - Android App 개발 
@@ -75,10 +78,10 @@ Kotlin 으로 개발했습니다.
 - MVP 패턴
 - Jenkins CI 적용
 
-## [Sharebox 바로가기,  GFile 바로가기](https://play.google.com/store/apps/details?id=gift.share.web)
+## Sharebox 바로가기,  GFile 바로가기
 `쉐어박스, 2019.01-2019.02`  
-[사이트](http://sharebox.co.kr)
-
+[사이트](http://sharebox.co.kr). 
+[PlayStore](https://play.google.com/store/apps/details?id=gift.share.web)
 
  ### 개발
 - Android App 개발 
