@@ -32,7 +32,7 @@ Futter 개발로 앱을 만들었고 Bloc 패턴을 선호합니다.
 
 ## [KumaApp]
 `개인프로젝트, 2021.03 ~ 2021.07`  
-[GitHub 주소](https://github.com/AnHeung/kuma_app_with_flutter)
+[https://github.com/AnHeung/kuma_app_with_flutter](https://github.com/AnHeung/kuma_app_with_flutter)
 
  ### 개발
 - 애니메이션 뉴스 및 검색과 알림을 위한 API
@@ -46,8 +46,8 @@ Futter 개발로 앱을 만들었고 Bloc 패턴을 선호합니다.
 
 
 ## ToCeleb
-`회사프로젝트, 2020.01 ~ 2020.06`
-[GitHub 주소](https://github.com/AnHeung/ToCeleb)
+`회사프로젝트, 2020.01 ~ 2020.06`  
+[https://github.com/AnHeung/ToCeleb](https://github.com/AnHeung/ToCeleb)
 
 셀럽(유튜버,연예인등)들을 위한 개인 블로깅 및 후원 앱입니다.
 Kotlin 으로 개발했습니다. 
@@ -66,8 +66,8 @@ Kotlin 으로 개발했습니다.
 
 
 ## Sharebox 다운로드, GFile 다운로드
-`쉐어박스, 2019.01-2019.08`. 
-[PlayStore](https://play.google.com/store/apps/details?id=com.GiftM.google1.ShareBox)
+`쉐어박스, 2019.01-2019.08`  
+[https://play.google.com/store/apps/details?id=com.GiftM.google1.ShareBox](https://play.google.com/store/apps/details?id=com.GiftM.google1.ShareBox)
   
  ### 개발
 - Android App 개발 
@@ -80,8 +80,8 @@ Kotlin 으로 개발했습니다.
 
 ## Sharebox 바로가기,  GFile 바로가기
 `쉐어박스, 2019.01-2019.02`  
-[사이트](http://sharebox.co.kr). 
-[PlayStore](https://play.google.com/store/apps/details?id=gift.share.web)
+[http://sharebox.co.kr](http://sharebox.co.kr)  
+[https://play.google.com/store/apps/details?id=gift.share.web](https://play.google.com/store/apps/details?id=gift.share.web)
 
  ### 개발
 - Android App 개발 
@@ -91,10 +91,11 @@ Kotlin 으로 개발했습니다.
 - MVP
 - Jenkins CI 적용
   
-## [Kdex](https://play.google.com/store/apps/details?id=com.kuma.kdex.io)
+## Kdex
 `KDEX 거래소, 2018.04-2019.01`  
  암호화폐 거래소 Android 개발   
- [사이트](https://kdex.io/)
+ [https://play.google.com/store/apps/details?id=com.kuma.kdex.io](https://play.google.com/store/apps/details?id=com.kuma.kdex.io)  
+ [https://kdex.io/](https://kdex.io/)
  
  ### 개발
 - JAVA
