@@ -86,7 +86,7 @@ Kotlin 으로 개발했습니다.
 - MVP
 - Jenkins CI 적용
   
-## Kdex (https://play.google.com/store/apps/details?id=com.kuma.kdex.io)
+## [Kdex](https://play.google.com/store/apps/details?id=com.kuma.kdex.io)
 `KDEX 거래소, 2018.04-2019.01`
  암호화폐 거래소 Android 개발
  [Kdex 정보](https://kdex.io/)
