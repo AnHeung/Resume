@@ -76,7 +76,7 @@ Kotlin 으로 개발했습니다.
 - Jenkins CI 적용
 
 ## [Sharebox 바로가기,  GFile 바로가기](https://play.google.com/store/apps/details?id=gift.share.web)
-`쉐어박스, 2019.01-2019.02`
+`쉐어박스, 2019.01-2019.02`  
 [쉐어박스 사이트](http://sharebox.co.kr)
 
  ### 개발
@@ -88,8 +88,8 @@ Kotlin 으로 개발했습니다.
 - Jenkins CI 적용
   
 ## [Kdex](https://play.google.com/store/apps/details?id=com.kuma.kdex.io)
-`KDEX 거래소, 2018.04-2019.01`
- 암호화폐 거래소 Android 개발
+`KDEX 거래소, 2018.04-2019.01`  
+ 암호화폐 거래소 Android 개발  
  [Kdex 사이트](https://kdex.io/)
  
  ### 개발
