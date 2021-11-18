@@ -16,9 +16,9 @@ Futter 개발로 앱을 만들었고 Bloc 패턴을 선호합니다.
 
 # 경력  
 * [웹플레이](http://www.nscreen.com/)
-    - 파트
+*   - 웹하드앱 신규개발 및 유지보수
     - Android Developer
-    - 기간 : 2019.1 ~ 
+    - 기간 : 2019.1 ~ 현재
 * [키스톤랩](https://kdex.io/)
     - 암호화화폐 거래소 Android 앱 개발
     - Android Developer
