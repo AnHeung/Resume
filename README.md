@@ -102,7 +102,7 @@ Kotlin 으로 개발했습니다.
 # 보유 기술 및 사용도구
 ## 사용가능 언어
 
-<img alt="JAVA" src="https://user-images.githubusercontent.com/23161645/75500279-d1daad00-5a0f-11ea-8ad4-c1e39bfe3e9e.jpg" width = 40 height=40/><img alt="Kotlin" src="https://user-images.githubusercontent.com/23161645/75500377-18300c00-5a10-11ea-9152-d07ea80eb596.png" width = 40 height=40/><img alt="Javascript" src="https://user-images.githubusercontent.com/33444036/142339130-94aa1fa5-e1d5-45b2-b1df-b7af7dcf26a2.png" width = 40 height=40/><img alt="Dart" src="https://user-images.githubusercontent.com/33444036/142339346-c00f6ed7-d201-45f7-b5be-d7c3946851ab.png" width = 40 height=40/>    
+<img alt="JAVA" src="https://user-images.githubusercontent.com/23161645/75500279-d1daad00-5a0f-11ea-8ad4-c1e39bfe3e9e.jpg" width = 40 height=40/><img alt="Kotlin" src="https://user-images.githubusercontent.com/23161645/75500377-18300c00-5a10-11ea-9152-d07ea80eb596.png" width = 40 height=40/><img alt="Javascript" src="https://user-images.githubusercontent.com/33444036/142339130-94aa1fa5-e1d5-45b2-b1df-b7af7dcf26a2.png" width = 40 height=40/><img alt="Dart" src="https://user-images.githubusercontent.com/33444036/142339478-8ab90c23-6074-4c50-8da7-e9d57359c969.jpeg" width = 40 height=40/>    
 
 
 - 주로 사용하는 언어는 Kotlin, Java, Javascript,Dart 입니다.
