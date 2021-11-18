@@ -11,7 +11,6 @@
 저는 Clean Architecture 및 MVVM패턴을 선호 하며 다룹니다. 
 Kotlin을 다룰줄 알고 Jetpack 중 Room 과 Navigation 을 통한 앱 개발을 해봤습니다.
 Futter 개발로 앱을 만들었고 Bloc 패턴을 선호합니다.
-* Link : [github.com/Anheung/kuma_app_with_flutter](https://github.com/AnHeung/kuma_app_with_flutter)  
 새로운 기술에 두려움을 갖지않고, 끊임없는 개발을 지향합니다.
 
 
