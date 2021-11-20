@@ -7,6 +7,26 @@
 * Email : gskebin4@gmail.com
 * Github : [github.com/AnHeung](https://github.com/AnHeung)
 
+# 보유 기술 및 사용도구
+## 사용가능 언어
+
+<img alt="JAVA" src="https://user-images.githubusercontent.com/23161645/75500279-d1daad00-5a0f-11ea-8ad4-c1e39bfe3e9e.jpg" width = 40 height=40/><img alt="Kotlin" src="https://user-images.githubusercontent.com/23161645/75500377-18300c00-5a10-11ea-9152-d07ea80eb596.png" width = 40 height=40/><img alt="Javascript" src="https://user-images.githubusercontent.com/33444036/142339130-94aa1fa5-e1d5-45b2-b1df-b7af7dcf26a2.png" width = 40 height=40/><img alt="Dart" src="https://user-images.githubusercontent.com/33444036/142339478-8ab90c23-6074-4c50-8da7-e9d57359c969.jpeg" width = 40 height=40/>    
+
+
+- 주로 사용하는 언어는 Kotlin, Java, Javascript,Dart 입니다.
+- MVVM 패턴을 선호하며 다룹니다.
+- Flutter 로 개발을 해봤습니다.
+- RestFul API를 사용할 수 있고, Retrofit 라이브러리를 사용합니다.
+- RestApi를 구축해본적 있습니다.(Nodejs)
+- Clean Architecture을 선호 하며 다룹니다.
+- FireBase를 연동 할수있으며 클라우드메세지/ 데이터베이스 등을 다룹니다.  
+- Room 다룹니다.
+- RxJava 라이브러리를 다룹니다.
+- Coroutine 을 다룹니다.
+- CI/CD에 관심이 많습니다.
+- 자동화에 관심이 많습니다.
+
+
 코인거래소, 학교교육, 웹하드 분야에서 Android를 개발한 경험이있습니다.    
 저는 Clean Architecture 및 MVVM패턴을 선호 하며 다룹니다.   
 Kotlin을 다룰줄 알고 Jetpack 중 Room 과 Navigation 을 통한 앱 개발을 해봤습니다.  
@@ -104,25 +124,6 @@ Kotlin 으로 개발했습니다.
 - FireBase 연동
 - MVP 패턴
   
-
-# 보유 기술 및 사용도구
-## 사용가능 언어
-
-<img alt="JAVA" src="https://user-images.githubusercontent.com/23161645/75500279-d1daad00-5a0f-11ea-8ad4-c1e39bfe3e9e.jpg" width = 40 height=40/><img alt="Kotlin" src="https://user-images.githubusercontent.com/23161645/75500377-18300c00-5a10-11ea-9152-d07ea80eb596.png" width = 40 height=40/><img alt="Javascript" src="https://user-images.githubusercontent.com/33444036/142339130-94aa1fa5-e1d5-45b2-b1df-b7af7dcf26a2.png" width = 40 height=40/><img alt="Dart" src="https://user-images.githubusercontent.com/33444036/142339478-8ab90c23-6074-4c50-8da7-e9d57359c969.jpeg" width = 40 height=40/>    
-
-
-- 주로 사용하는 언어는 Kotlin, Java, Javascript,Dart 입니다.
-- MVVM 패턴을 선호하며 다룹니다.
-- Flutter 로 개발을 해봤습니다.
-- RestFul API를 사용할 수 있고, Retrofit 라이브러리를 사용합니다.
-- RestApi를 구축해본적 있습니다.(Nodejs)
-- Clean Architecture을 선호 하며 다룹니다.
-- FireBase를 연동 할수있으며 클라우드메세지/ 데이터베이스 등을 다룹니다.  
-- Room 다룹니다.
-- RxJava 라이브러리를 다룹니다.
-- Coroutine 을 다룹니다.
-- CI/CD에 관심이 많습니다.
-- 자동화에 관심이 많습니다.
 
 ## 패턴 / Architecture
 - MVC, MVVM , MVP , Bloc 패턴을 이해하며 사용합니다.
