@@ -77,6 +77,8 @@ Kotlin 으로 개발했습니다.
 
  ### 개발
 - 셀럽을 위한 Android APP 개발 
+ 
+ ### 사용기술
 - Coroutine
 - RxJava
 - Koin
@@ -94,6 +96,8 @@ Kotlin 으로 개발했습니다.
   
  ### 개발
 - Android App 개발 
+
+ ### 사용기술
 - JAVA
 - Retrofit, RxAndroid
 - Dagger2
@@ -108,6 +112,8 @@ Kotlin 으로 개발했습니다.
 
  ### 개발
 - Android App 개발 
+
+ ### 사용기술
 - JAVA
 - WebView
 - FireBase
