@@ -53,9 +53,12 @@ Futter 개발로 앱을 만들었고 Bloc 패턴을 선호합니다.
 ## [KumaApp]
 `개인프로젝트, 2021.03 ~ 2021.07`  
 [https://github.com/AnHeung/kuma_app_with_flutter](https://github.com/AnHeung/kuma_app_with_flutter)
+[https://github.com/AnHeung/kuma_search_api](https://github.com/AnHeung/kuma_app_with_flutter)
 
  ### 개발
-- 애니메이션 뉴스 및 검색과 알림을 위한 API
+- 애니메이션 뉴스 및 검색과 알림을 위한 API 서버 개발
+
+ ### 사용기술
 - RxDart
 - Retrofit
 - Flutter_Bloc
