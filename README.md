@@ -2,7 +2,7 @@
 
 <img alt="깃헙 프로필 사진" src="https://user-images.githubusercontent.com/33444036/142337809-bcd52d9b-3b70-4463-9970-36858ae8abac.png" width="200"> 
 
-* 안흥섭
+* Name : 안흥섭
 * Email : gskebin4@gmail.com
 * Github : [github.com/AnHeung](https://github.com/AnHeung)
 * Homepage : https://anheung.github.io/
@@ -56,13 +56,11 @@ Kotlin 으로 개발했습니다. 상용으로 런칭되지 않은 프로젝트�
 - MVVM 패턴 적용 및 Databinding 사용
 
 
-## Sharebox 다운로드, GFile 다운로드
+ ## Sharebox 다운로드, GFile 다운로드
 `웹플레이 프로젝트, 2019.03-2019.08`  
 [https://play.google.com/store/apps/details?id=com.GiftM.google1.ShareBox](https://play.google.com/store/apps/details?id=com.GiftM.google1.ShareBox)
 
 쉐어박스 사이트의 다운로드와 재생 크롬캐스트 등의 기능과 로컬 파일 탐색기 기능을 제공하는 앱입니다.
-  
- ### 개발
 크롬캐스트 및 다운로드 서비스를 개발하고 푸쉬서비스등 기능추가 및 전체적인 리뉴얼 및 리팩토링등을 진행하였습니다.
 
  ### 사용기술 및 언어
@@ -80,12 +78,7 @@ Kotlin 으로 개발했습니다. 상용으로 런칭되지 않은 프로젝트�
 [https://play.google.com/store/apps/details?id=gift.share.web](https://play.google.com/store/apps/details?id=gift.share.web)
 
 쉐어박스 모바일 웹을 위한 웹뷰기반 바로가기 앱입니다. 
-
-### 개발
-웹뷰 및 푸쉬 및 기타 저장기능 및 딥링크등을 진행하였습니다.
-
- ### 개발
-- Android App 개발 
+웹뷰 및 푸쉬 및 기타 저장기능 및 딥링크등을 전체적인 안드로이드 개발 진행하였습니다.
 
  ### 사용기술 및 언어
 - JAVA
@@ -96,22 +89,29 @@ Kotlin 으로 개발했습니다. 상용으로 런칭되지 않은 프로젝트�
   
 ## Kdex
 `키스톤랩 프로젝트, 2018.04-2019.01`  
- 암호화폐 거래소 Android 개발   
  [https://play.google.com/store/apps/details?id=com.kuma.kdex.io](https://play.google.com/store/apps/details?id=com.kuma.kdex.io)  
  [https://kdex.io/](https://kdex.io/)
- 
- 탈중앙식 암호화폐 거래소 입니다. 
- 
- ### 개발
- - 소켓 통신 및 
- 
- ### 사용기술 및 언어
+
+소켓통신을 기반으로 한 탈중앙식 암호화폐 거래소 입니다. 푸쉬, 인증 등 전체적인 안드로이드 개발을 진행하였습니다. 
+
+### 사용기술 및 언어
 - JAVA
 - Retrofit
 - RxJava
 - FireBase 연동
 - MVP 패턴
-  
+
+## 구달
+`한빛 프로젝트, 2017.04-2017.08`  
+
+mqtt 프로토콜 기반 채팅 솔루션 입니다. 
+상용화 되었으나 현재 서비스 하지 않고 있습니다. 전체적인 안드로이드 개발을 진행하였습니다.
+
+ ### 사용기술 및 언어
+- JAVA
+- Retrofit
+- Mosquitto 
+
 # 활동
 * 패스트 캠퍼스 FastRxJava 3기 수료 (2020.03)
 * 안드로이드 앱 프로그래밍 과정 수료 (2017.05)
