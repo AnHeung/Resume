@@ -60,7 +60,7 @@ Kotlin 으로 개발했습니다. 상용으로 런칭되지 않은 프로젝트�
 `웹플레이 프로젝트, 2019.03-2019.08`  
 [https://play.google.com/store/apps/details?id=com.GiftM.google1.ShareBox](https://play.google.com/store/apps/details?id=com.GiftM.google1.ShareBox)
 
-쉐어박스 사이트의 다운로드와 재생 크롬캐스트 등의 기능과 로컬 파일 탐색기 기능을 제공하는 앱입니다.
+쉐어박스 사이트의 다운로드와 재생 및 크롬캐스트 등의 기능과 로컬 파일 탐색기 기능을 제공하는 앱입니다.
 크롬캐스트 및 다운로드 서비스를 개발하고 푸쉬서비스등 기능추가 및 전체적인 리뉴얼 및 리팩토링등을 진행하였습니다.
 
  ### 사용기술 및 언어
