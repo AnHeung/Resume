@@ -96,6 +96,7 @@ Kotlin 으로 개발했습니다. 상용으로 런칭되지 않은 프로젝트�
 
 ### 사용기술 및 언어
 - JAVA
+- Socket
 - Retrofit
 - RxJava
 - FireBase 연동
