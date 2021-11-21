@@ -22,7 +22,7 @@
 
 # 경력  
 * [웹플레이](http://www.nscreen.com/)
-*   - 웹하드앱 신규개발 및 유지보수
+    - 웹하드앱 신규개발 및 유지보수
     - Android Developer
     - 기간 : 2019.1 ~ 현재
 * [키스톤랩](https://kdex.io/)
