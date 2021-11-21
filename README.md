@@ -139,6 +139,8 @@ Kotlin 으로 개발했습니다. 상용으로 런칭되지 않은 프로젝트�
 - Retrofit
 - FireStore
 - FireBaseMessage
-- Bloc 패턴 적용 
+- Bloc 패턴 적용
 
-## [manga_crawler](https://github.com/AnHeung/manga_crawler)
+## Github
+
+### [github.com/AnHeung](https://github.com/AnHeung)
