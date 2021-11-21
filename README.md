@@ -20,12 +20,15 @@
 - RestApi를 구축해본적 있습니다.(Nodejs)
 - Clean Architecture을 선호 하며 다룹니다.
 - FireBase를 연동 할수있으며 클라우드메세지/ 데이터베이스 등을 다룹니다.  
-- Room 다룹니다.
+- Room 을 다룹니다.
 - RxJava 라이브러리를 다룹니다.
 - Coroutine 을 다룹니다.
 - CI/CD에 관심이 많습니다.
 - 자동화에 관심이 많습니다.
 
+## 패턴 / Architecture
+- MVC, MVVM , MVP , Bloc 패턴을 이해하며 사용합니다.
+- Clean Architecture을 선호합니다.
 
 코인거래소, 학교교육, 웹하드 분야에서 Android를 개발한 경험이있습니다.    
 저는 Clean Architecture 및 MVVM패턴을 선호 하며 다룹니다.   
@@ -76,7 +79,7 @@ Futter 개발로 앱을 만들었고 Bloc 패턴을 선호합니다.
 Kotlin 으로 개발했습니다. 
 
  ### 개발
-- 셀럽을 위한 Android APP 개발 
+- 
  
  ### 사용기술
 - Coroutine
@@ -86,7 +89,7 @@ Kotlin 으로 개발했습니다.
 - Navigation
 - Room
 - FireBase 연동
-- Jenkins CI 적용
+- Slack 웹훅과 Github 를 사용한 Jenkins CI 구축
 - MVVM 패턴 적용 및 Databinding 사용
 
 
@@ -102,8 +105,8 @@ Kotlin 으로 개발했습니다.
 - Retrofit, RxAndroid
 - Dagger2
 - FireBaseMessaging
-- MVP 패턴
-- Jenkins CI 적용
+- MVP 패턴 사용
+- Slack 웹훅과 Github 를 사용한 Jenkins CI 구축
 
 ## Sharebox 바로가기,  GFile 바로가기
 `쉐어박스, 2019.03-2019.04`  
@@ -117,8 +120,8 @@ Kotlin 으로 개발했습니다.
 - JAVA
 - WebView
 - FireBase
-- MVP
-- Jenkins CI 적용
+- MVP 패턴 사용
+- Slack 웹훅과 Github 를 사용한 Jenkins CI 구축
   
 ## Kdex
 `KDEX 거래소, 2018.04-2019.01`  
@@ -133,17 +136,11 @@ Kotlin 으로 개발했습니다.
 - FireBase 연동
 - MVP 패턴
   
-
-## 패턴 / Architecture
-- MVC, MVVM , MVP , Bloc 패턴을 이해하며 사용합니다.
-- Clean Architecture을 선호합니다.
-
 # 활동
 * 패스트 캠퍼스 FastRxJava 3기 수료 (2020.03)
 * 안드로이드 앱 프로그래밍 과정 수료 (2017.05)
 * 소켓을 사용하는 채팅앱 과정 수료 T 아카데미 (2017.01)
 * 스프링을 사용하는 웹 프로그램 개발 과정 수료 (2016.5)
-
 
 # 학력
 * 인창고등학교 졸업 (2002.02 ~ 2005.2)
