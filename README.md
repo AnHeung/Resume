@@ -38,7 +38,6 @@
 
 ## ToCeleb
 `웹플레이 프로젝트, 2020.01 ~ 2020.06`  
-[https://github.com/AnHeung/ToCeleb](https://github.com/AnHeung/ToCeleb)
 
 셀럽(유튜버,연예인등)들을 위한 개인 블로깅 및 후원 앱입니다.
 Kotlin 으로 개발했습니다. 상용으로 런칭되지 않은 프로젝트여서 코드를 첨부하였습니다.
