@@ -1,18 +1,39 @@
-# 소개 
+👋&nbsp;안녕하세요 저는 Kotlin 과 Flutter 를 사용해 안드로이드 앱 개발을 하고 있습니다.💖
 
-<img alt="깃헙 프로필 사진" src="https://user-images.githubusercontent.com/33444036/142337809-bcd52d9b-3b70-4463-9970-36858ae8abac.png" width="200"> 
+#### 🐻 Who am I? 💎 
 
 * Name : 안흥섭
 * Email : gskebin4@gmail.com
 * Github : [github.com/AnHeung](https://github.com/AnHeung)
 * Homepage : https://anheung.github.io/AnHeung/
 
-# 보유 기술 및 사용도구
-## 사용가능 언어
+- Android ( Kotlin, Java, Flutter) 로 개발 가능한 개발자 입니다.
 
-👋&nbsp;안녕하세요 저는 Kotlin 과 Flutter 를 사용해 안드로이드 앱 개발을 하고 있습니다.💖
+- 라이브러리나 프레임워크는 Document 를 기반으로 이론을 습득하고 공부하며 개발합니다.
 
-#### 🐻 Skills 
+- 공부한 내용에 대해 사이트 (블로그) 등을 만들어 정리하고 여러 사람들과 공유하며 토론 하는것을 좋아합니다.
+
+- 새로운 기술에 항상 관심으로 공부하며 샘플 코드 등을 작성하는 일에 적극적인 편입니다. 
+
+- 일관성, 코딩컨벤션을 지키기 위해 노력합니다.
+
+- 해결되지 않는 문제가 있다면 해결될 때까지 붙들고 해결하는 근성이 있습니다.
+
+- MVVM 패턴 및 Clean Architecture 를 통한 개발을 선호합니다.
+
+- Retrofit, JetPack, Coroutine, Rx, Koin, Dagger Hilt 를 사용합니다.
+
+- Firebase ( Message, Store ) 연동 경험이 있습니다.
+
+- CI/CD ( Jira, Slack, Jenkins 등 ) 에 경험이 있습니다.
+
+- 단일 테스트 및 UI 테스트 경험이 있습니다.
+
+- 코인거래소, 교육, 웹하드 분야에 근무 경력이 있습니다.
+
+- 새로운 기술에 두려움을 갖지않고, 끊임없는 개발을 지향합니다.
+
+#### 💻 Skills 
 *  #### Language: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 * #### Framework: ![Flutter](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) 
 * #### Database: ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) 
@@ -31,14 +52,6 @@
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anheung&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
  
-
-- Android ( Kotlin, Java, Flutter ) 개발 가능
-- MVVM 및 Clean Architecture 를 통한 개발을 선호합니다.
-- Retrofit, JetPack, Coroutine, Rx 를 사용합니다.
-- Firebase ( Message, Store ) 연동 경험이 있습니다.
-- CI/CD ( Jira, Slack, Jenkins 등 ) 에 관심이 많습니다.
-- 코인거래소, 교육, 웹하드 분야에 근무 경력이 있습니다.
-- 새로운 기술에 두려움을 갖지않고, 끊임없는 개발을 지향합니다.
 
 # 경력  
 * [웹플레이](http://www.nscreen.com/)
@@ -161,6 +174,4 @@ mqtt 프로토콜 기반 채팅 솔루션 입니다.
 - FireBaseMessage
 - Bloc 패턴 적용
 
-## Github
 
-### [github.com/AnHeung](https://github.com/AnHeung)
