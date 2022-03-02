@@ -2,35 +2,23 @@
 
 #### 🐻 Who am I? 💎 
 
-* Name : 안흥섭
-* Email : gskebin4@gmail.com
-* Github : [github.com/AnHeung](https://github.com/AnHeung)
-* Homepage : https://anheung.github.io/AnHeung/
+Name : 안흥섭  
+Email : gskebin4@gmail.com  
+Github : [github.com/AnHeung](https://github.com/AnHeung)  
+Homepage : https://anheung.github.io/AnHeung/  
 
-- Android ( Kotlin, Java, Flutter) 로 개발 가능한 개발자 입니다.
+#### 😁 Introduce 
 
-- 라이브러리나 프레임워크는 Document 를 기반으로 이론을 습득하고 공부하며 개발합니다.
-
+- Android ( Kotlin, Java, Flutter) 로 개발 가능한 개발자 입니다.  
+- 저는 라이브러리나 프레임워크는 Document 를 기반으로 이론을 습득하고 공부하며 개발합니다.  
 - 공부한 내용에 대해 사이트 (블로그) 등을 만들어 정리하고 여러 사람들과 공유하며 토론 하는것을 좋아합니다.
-
-- 새로운 기술에 항상 관심으로 공부하며 샘플 코드 등을 작성하는 일에 적극적인 편입니다. 
-
-- 일관성, 코딩컨벤션을 지키기 위해 노력합니다.
-
+- 언제나 새로운 기술에 항상 관심으로 공부하며 샘플 코드 등을 작성하는 일에 적극적인 편입니다. 
+- 코드를 짜는것에 일관성, 코딩컨벤션을 지키기 위해 노력합니다.
 - 해결되지 않는 문제가 있다면 해결될 때까지 붙들고 해결하는 근성이 있습니다.
-
 - MVVM 패턴 및 Clean Architecture 를 통한 개발을 선호합니다.
-
-- Retrofit, JetPack, Coroutine, Rx, Koin, Dagger Hilt 를 사용합니다.
-
-- Firebase ( Message, Store ) 연동 경험이 있습니다.
-
-- CI/CD ( Jira, Slack, Jenkins 등 ) 에 경험이 있습니다.
-
-- 단일 테스트 및 UI 테스트 경험이 있습니다.
-
-- 코인거래소, 교육, 웹하드 분야에 근무 경력이 있습니다.
-
+- Retrofit, JetPack, Coroutine, Rx, Koin, Dagger Hilt 를 사용합니다. 
+- Firebase ( Message, Store ) 연동 경험이 있습니다. CI/CD ( Jira, Slack, Jenkins 등 ) 에 경험이 있습니다.
+- 단일 테스트 및 UI 테스트 경험이 있습니다. 코인거래소, 교육, 웹하드 분야에 근무 경력이 있습니다.
 - 새로운 기술에 두려움을 갖지않고, 끊임없는 개발을 지향합니다.
 
 #### 💻 Skills 
