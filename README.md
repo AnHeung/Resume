@@ -5,7 +5,7 @@
 Name : 안흥섭  
 Email : gskebin4@gmail.com  
 Github : [github.com/AnHeung](https://github.com/AnHeung)  
-Homepage : https://anheung.github.io/AnHeung/  
+TechBlog : https://anheung.github.io/AnHeung/  
 
 #### 😁 Introduce 
 
@@ -22,7 +22,7 @@ Homepage : https://anheung.github.io/AnHeung/
 - 새로운 기술에 두려움을 갖지않고, 끊임없는 개발을 지향합니다.
 
 #### 💻 Skills 
-*  #### Language: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+* #### Language: ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 * #### Framework: ![Flutter](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) 
 * #### Database: ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) 
 
@@ -35,8 +35,6 @@ Homepage : https://anheung.github.io/AnHeung/
   <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 </p>
-
-#### Tech Blog: 🙊 [![Tech Blog Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://anheung.github.io/AnHeung) 
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anheung&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
  
