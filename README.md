@@ -158,7 +158,7 @@ mqtt 프로토콜 기반 채팅 솔루션 입니다.
 
 ## [KumaApp]
 `개인프로젝트, 2021.03 ~ 2021.07`  
-[https://github.com/AnHeung/kuma_app_with_flutter](https://github.com/AnHeung/kuma_app_with_flutter)
+[https://github.com/AnHeung/kuma_app_with_flutter](https://github.com/AnHeung/kuma_app_with_flutter)  
 [https://github.com/AnHeung/kuma_search_api](https://github.com/AnHeung/kuma_app_with_flutter)
 
  ### 개발
