@@ -5,7 +5,7 @@
 * Name : 안흥섭
 * Email : gskebin4@gmail.com
 * Github : [github.com/AnHeung](https://github.com/AnHeung)
-* Homepage : https://anheung.github.io/
+* Homepage : https://anheung.github.io/AnHeung/
 
 # 보유 기술 및 사용도구
 ## 사용가능 언어
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 </p>
 
-#### Tech Blog: 🙊 [![Tech Blog Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://anheung.github.io/) 
+#### Tech Blog: 🙊 [![Tech Blog Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://anheung.github.io/AnHeung) 
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anheung&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
  
