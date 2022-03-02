@@ -164,14 +164,4 @@ mqtt 프로토콜 기반 채팅 솔루션 입니다.
  ### 개발
 - 애니메이션 뉴스 및 검색과 알림을 위한 API 서버 개발
 
- ### 사용기술 및 언어
-- Dart
-- RxDart
-- Retrofit
-- Flutter_Bloc
-- Retrofit
-- FireStore
-- FireBaseMessage
-- Bloc 패턴 적용
-
 
