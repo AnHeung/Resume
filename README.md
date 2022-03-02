@@ -17,7 +17,7 @@ TechBlog : https://anheung.github.io/AnHeung/
 - 해결되지 않는 문제가 있다면 해결될 때까지 붙들고 해결하는 근성이 있습니다.
 - MVVM 패턴 및 Clean Architecture 를 통한 개발을 선호합니다.
 - Retrofit, JetPack, Coroutine, Rx, Koin, Dagger Hilt 를 사용합니다. 
-- Firebase ( Analytics,Crashlytics,Message, Store ) 연동 경험이 있습니다. CI/CD ( Jira, Slack, Jenkins 등 ) 에 경험이 있습니다.
+- Firebase (Analytics,Crashlytics,Message, Store) 연동 경험이 있습니다. CI/CD ( Jira, Slack, Jenkins 등 ) 에 경험이 있습니다.
 - 단일 테스트 및 UI 테스트 경험이 있습니다. 코인거래소, 교육, 웹하드 분야에 근무 경력이 있습니다.
 - 새로운 기술에 두려움을 갖지않고, 끊임없는 개발을 지향합니다.
 
